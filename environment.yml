@@ -4,3 +4,4 @@ dependencies:
   - python=3.9
   - pip:
       - matplotlib==3.4.3
+      - astropy==5.1
