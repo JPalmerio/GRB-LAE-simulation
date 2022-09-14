@@ -1,0 +1,11 @@
+version: 0.3.1
+
+overleaf:
+  id: 6321d1ae9c602702d2a5d6f8
+  push:
+    - src/tex/figures
+    - src/tex/output
+  pull:
+    - src/tex/ms.tex
+    - src/tex/bib.bib
+
